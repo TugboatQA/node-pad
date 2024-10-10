@@ -78,6 +78,7 @@
     "timeout": 40000
   },
   "module": "dist/pad.esm.js",
+  "main": "dist/pad.cjs.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/adaltas/node-pad.git"
